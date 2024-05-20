@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "800518434180deab",
+    "type": "split",
+    "children": [
+      {
+        "id": "55a53095782e48d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e63ee76b8d47f35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introductoria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e17bc7b065bac5ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Investigaciones en Dzibanché.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4ac66b5f55907146",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9affc40793df29ce",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6481ea29fee48a8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "728a4eea698f10cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "985193ef635045d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee9dfa2ed4a18ba2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7752bce8f689fecf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "78a9415f3c708c0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c71e5703160e395",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6efdcee375c91d2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Investigaciones en Dzibanché.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e557dc7446c29952",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Investigaciones en Dzibanché.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3786d781f57870d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b51783dc25e2486b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Investigaciones en Dzibanché.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e17bc7b065bac5ea",
+  "lastOpenFiles": [
+    "Introductoria.md",
+    "Investigaciones en Dzibanché.md",
+    "Welcome.md"
+  ]
+}
