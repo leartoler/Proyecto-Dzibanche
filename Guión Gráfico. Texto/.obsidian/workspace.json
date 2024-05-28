@@ -113,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigaciones en Dzibanché.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigaciones en Dzibanché.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Investigaciones en Dzibanché.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -174,8 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e17bc7b065bac5ea",
+  "active": "9affc40793df29ce",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "2024-05-27.md",
     "Introductoria.md",
     "Investigaciones en Dzibanché.md",
     "Welcome.md"
