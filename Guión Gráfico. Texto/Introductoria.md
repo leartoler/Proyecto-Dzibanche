@@ -1,5 +1,0 @@
-Dzibanché, que en maya significa "escritura sobre mandera", es un sitio que fue ocupado desde el **Preclásico Tardío** (300 a.C.) hasta el **Posclásico** (900-1500 d.C.), con un auge durante el **Clásico Temprano** (250-600 d.C).
-
-Dzibanché tiene una extensión de 60 km² y pertenece a un grupo arquitectónico que incluyen al propio Dzibanché, Kinichná, Tutil y Lamay. Los cuatro grupos arquitectónicos estaban conectados por una red de caminos conocidos en maya como "sacbe'ob" y facilitaron el movimiemiento y comunicación entre ellos. 
-
-A través de su arquitectura veremos que Dzibanché fue sede de la dinastia Serpiente, conocida como "Kaanu'l" durante el **Clásico Temprano Maya** (250-650 d.C.). Aunque parte de la dinastía se trasladó luego a Calakmul, Dzibanché continuó siendo un centro de poder. Los registros epigráficos actuales nos revelan que el nombre original de Dzibanché podría haber sido Kaanu’l, “lugar de serpientes”, y sus gobernantes eran venerados como los ‘señores sagrados de Kaanu’l’.
