@@ -6,7 +6,7 @@
       {
         "id": "55a53095782e48d4",
         "type": "tabs",
-        "dimension": 83.81877022653723,
+        "dimension": 83.81877022653721,
         "children": [
           {
             "id": "4e63ee76b8d47f35",
@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
+                "file": "Cedulas. Texto/Introductoria.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Tabla Datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Cedulas. Texto/Introductoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Cedulas. Texto/Introductoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Cedulas. Texto/Introductoria.md"
               }
             }
           },
@@ -187,12 +187,13 @@
   },
   "active": "4e63ee76b8d47f35",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Prácticas funerarias de Dzibanché.pdf",
-    "Prácticas funerarias de Dzibanché 1.pdf",
-    "Cedulas. Texto/Introductoria.md",
-    "Cedulas. Texto",
     "Cedulas. Texto/Investigaciones en Dzibanché.md",
+    "Cedulas. Texto/Introductoria.md",
+    "Prácticas funerarias de Dzibanché.pdf",
+    "Tabla Datos.md",
+    "Bibliografia citada",
+    "Prácticas funerarias de Dzibanché 1.pdf",
+    "Cedulas. Texto",
     "Untitled.canvas",
     "2024-05-27.md",
     "Welcome.md"
